@@ -29,3 +29,5 @@ Customize the installation using values files if needed:
 ```bash
 helm install my-release ./chart-directory -f custom-values.yaml
 ```
+
+Based on [https://helm.sh/docs/topics/chart_repository/](https://helm.sh/docs/topics/chart_repository/).
